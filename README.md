@@ -25,6 +25,4 @@ Codigo html:
 ```
 DEMOS:
 
-Slider con .jpg:
-
 https://torresgol10.github.io/lazyload-image-scroll/index.html
