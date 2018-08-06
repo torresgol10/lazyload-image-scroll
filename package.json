@@ -1,0 +1,25 @@
+{
+  "name": "lazyload-image-scroll",
+  "version": "1.0.1",
+  "description": "Lazyload imagenes cuando se hace scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torresgol10/lazyload-image-scroll.git"
+  },
+  "keywords": [
+    "Lazyload",
+    "image",
+    "scroll",
+    "resize"
+  ],
+  "author": "Ivan Torres <torresgol10.itd@gmail.com> (https://torresgol10.github.io/lazyload-image-scroll/index.html)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torresgol10/lazyload-image-scroll/issues"
+  },
+  "homepage": "https://github.com/torresgol10/lazyload-image-scroll#readme"
+}
